@@ -142,10 +142,6 @@ labeled_data.head()
 
 
 
-import matplotlib.pyplot as plt
-
-
-
 
 fig, axes = plt.subplots(nrows=3, ncols=2, figsize=(15, 15))
 
